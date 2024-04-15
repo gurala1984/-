@@ -46,16 +46,22 @@ nav{position: absolute;
     .form-select{
         position: absolute;
         width: 400px !important;
-        left: 800px;
+        left: 670px;
         top: 25px;
       }
 
   
 
-.about{position: absolute;
-left: 580px;
+.about1{position: absolute;
+left: 480px;
 top: 40px;
 }
 .MOVIES{position: absolute;
-    left: 680px;
+    left: 580px;
     top: 40px;}
+
+ .about{position: absolute;
+left: 65%;
+top: 28%;
+border-radius: 8px;
+height: 40%;}   
